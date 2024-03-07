@@ -1,0 +1,21 @@
+.top-container{
+    position: fixed;
+    top:0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+    text-align: center;
+    background-color: #549505;
+}
+
+.Scroll-progress-tracking-container{
+    width:100%;
+    height:10px;
+    background-color: #ccc;
+}
+.current-progress-bar{
+    height: 10px;
+    background: #8b02b5;
+    width:0;
+    transition: width;
+}
