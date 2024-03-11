@@ -25,6 +25,7 @@ const Autosearch = () => {
             setFilter(filteredItems);
             SetShowDropDown(true);
 
+            
         } else {
 
             SetShowDropDown(false); 

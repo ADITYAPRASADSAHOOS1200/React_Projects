@@ -16,6 +16,8 @@ import Testhook from './Components/customHooks/Testhook.jsx'
 import Onclick from './Components/UseOnclickOutside/Onclick.jsx'
 import Scrolltop from './Components/Scrolltoptobottom/Scrolltop.jsx'
 import Particilarsection from './Components/useParticularSection/Particilarsection.jsx'
+import Weather from './Components/WeatherApi/Weather.jsx'
+import Progress from './Components/ProgressBar/Progress.jsx'
 
 
 function App() {
@@ -36,7 +38,9 @@ function App() {
       {/* <Testhook/> */}
       {/* <Onclick/> */}
       {/* <Scrolltop/> */}
-       <Particilarsection/>
+       {/* <Particilarsection/> */}
+       {/* <Weather/> */}
+       <Progress/>
     </>
   )
 }
