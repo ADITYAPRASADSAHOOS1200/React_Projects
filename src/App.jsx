@@ -24,23 +24,23 @@ function App() {
  
   return (
     <>
-       {/* <Stars/> */}
-      {/* <Accordian/> */}
-      {/* <RandomColor/> */}
-      {/* <Index menus={Infos}/> */}
+       {/* <Stars/>
+      <Accordian/>
+      <RandomColor/>
+      <Index menus={Infos}/>
       {/* <QRCode/> */}
-      {/* <Togglebutton/> */}
-      {/* <ScrollTop/> */}
-      {/* <Modal/> */}
-      {/* <Profile/> */}
-      {/* <Autosearch/> */}
-      {/* <TicTacToe/> */}
-      {/* <Testhook/> */}
-      {/* <Onclick/> */}
-      {/* <Scrolltop/> */}
-       {/* <Particilarsection/> */}
-       {/* <Weather/> */}
-       <Progress/>
+      {/* {/* <Togglebutton/> */}
+      {/* <ScrollTop/>
+      <Modal/>
+      <Profile/>
+      <Autosearch/>
+      <TicTacToe/>
+      <Testhook/>
+      <Onclick/> 
+      <Scrolltop/>
+       <Particilarsection/>
+        <Weather/> */} 
+       {/* <Progress/>  */}
     </>
   )
 }
